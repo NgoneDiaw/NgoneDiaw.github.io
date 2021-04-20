@@ -1,0 +1,220 @@
+body{
+    font-family:'source code pro',calibri,serif;
+    margin:0px;
+    padding: 0px;
+    background-image:url("diop_pro.jpg");
+    background-size: cover;
+    
+}
+nav{
+    width:100%;
+    background-color:#424558;
+    padding: 07px;
+
+    
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color:#fff;
+}
+.menu-index:hover{
+    border-top: 5px solid #e44d26;
+    background-color: RGBa(228,77,38,0.15);
+}
+.menu-afrique_du_sud:hover{
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(000,112,192,0.15);
+}
+.menu-tombouctou:hover{
+    border-top: 5px solid #bbb;
+    background-color: RGBa(228,77,38,0.15);
+}
+.menu-éthiopie:hover{
+    border-top: 5px solid  gold;
+    background-color: RGBa(228,77,38,0.15) ;
+}
+.menu-gorée:hover{
+    border-top: 5px solid #deb887;
+    background-color: RGBa(000,112,192,0.15);
+}
+.menu-les_pyramides:hover{
+    border-top: 5px solid violet;
+    background-color: RGBa(228,77,38,0.15);
+}
+nav li:hover a{
+    padding: 15px 30px 20px 30px;
+    
+}
+.table{
+    display: table;
+    margin: 0 auto;
+}
+
+div#afrique_du_sud{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+}
+div#les_pyramide{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+}
+div#tombouctou{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+}
+div#éthiopie{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+}
+div#goree{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+}
+div#afrique_du_sud img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+}
+div#les_pyramide img{
+    float: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 70%;
+    line-height: 50px;
+}
+div#tombouctou img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+}
+div#éthiopie img{
+    float: center;
+    text-align: center;
+    width: 60%;
+    line-height: 30px;
+}
+div#goree img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+}
+div#afrique_du_sud a{
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color:burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#les_pyramide a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#tombouctou a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#éthiopie a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color:burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#goree a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  #afrique_du_sud{
+    display: inline-block;
+    vertical-align: auto;
+    float: left;
+  }
+  #les_pyramide{
+    display: inline-block;
+    vertical-align: auto;
+    float: center;
+    padding: 20px;
+  }
+  #tombouctou{
+    float: right;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  #éthiopie{
+    float: left;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  #goree{
+    float: center;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  p{
+      text-align: center;
+      font-family: cursive;
+      font-size: 25px;
+      margin: 20px;
+      
+  }
+
+
+  
+    
+

@@ -1,0 +1,120 @@
+body{
+    font-family:'source code pro',calibri,serif;
+    margin:0px;
+    padding: 0px;
+    
+}
+nav{
+    width:100%;
+    background-color:#424558
+
+
+    
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+    
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+    color:#fff;
+} 
+.menu-index:hover{
+    border-top: 5px solid #e44d26;
+    background-color: RGBa(228,77,38,0.15);
+    
+}
+.menu-afrique_du_sud:hover{
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(000,112,192,0.15);
+}
+.menu-tombouctou:hover{
+    border-top: 5px solid #bbb;
+    background-color: RGBa(228,77,38,0.15);
+}
+.menu-éthiopie:hover{
+    border-top: 5px solid  gold;
+    background-color: RGBa(228,77,38,0.15) ;
+}
+.menu-gorée:hover{
+    border-top: 5px solid #deb887;
+    background-color: RGBa(000,112,192,0.15);
+}
+.menu-les_pyramides:hover{
+    border-top: 5px solid violet;
+    background-color: RGBa(228,77,38,0.15);
+}
+nav li:hover a{
+    padding: 15px 30px 20px 30px;
+}
+.table{
+    display: table;
+    margin: 0 auto;
+}
+img{
+    float: center;
+    width: 200px;
+    width: 15%;
+    border-radius: 0px;
+    font-weight: bold;
+    
+    
+}
+div {
+    text-align: center;
+}
+div {
+    display: block;
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    font-family: kable;
+
+
+}
+header{
+
+    font-size: 50px ;
+    background: url("https://i.pinimg.com/236x/c7/10/40/c71040c43ebe221c37eafe42791fdff1.jpg ") no-repeat center fixed  ;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 295px;
+    
+    
+
+}
+img{
+    float: center;
+    width: 200px;
+    width: 15%;
+    border-radius: 0px;
+
+}
+p{
+    text-align: center;
+    font-weight: 30px;
+    color: brown;
+    font-size: 25px;
+    font-family: corbel;
+    
+}
+div h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family:cantanco;
+    background-color: white;
+    padding-top: 25px;
+    margin: auto;
+    color: brown;
+}
+
